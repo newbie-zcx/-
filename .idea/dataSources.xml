@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="SQLite - test.db" uuid="8e4f7f66-bd73-4891-b22c-1123e861fbf8">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:E:\pythonDom\test\test.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="movieTop250.db" uuid="d050c536-7772-40d8-98ac-9b0e948d228c">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:E:\pythonDom\movieTop250.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
